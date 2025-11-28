@@ -1,0 +1,45 @@
+ENG:
+
+
+Data Information
+
+The data in this folder, which are qualitative in nature (e.g., interviews), are organized so that each file contains the original version followed by its translation.
+
+For example, if the original version is in English, the Italian translation immediately follows; similarly, if the original version is in Italian, the English translation is placed right after.
+
+To optimize space and ensure clarity, the following formatting conventions are used:
+
+Bold → indicates the interviewer
+
+Italic → indicates the interviewee
+
+Currently, the data are available exclusively in Italian and English; each file therefore includes both language versions of the same content.
+
+Please note that the translations may contain traces of assistance from artificial intelligence tools, used to ensure linguistic consistency and accuracy.
+
+For any information or inquiries, you can contact the following email address: andrea.alfonsi97@gmail.com
+
+-Dr.Andrea Alfonsi 
+
+
+ITA:
+
+Informazioni dei dati 
+
+I dati presenti in questa cartella, di natura qualitativa (ad esempio interviste), sono organizzati in modo che ciascun file contenga la versione originale seguita dalla relativa traduzione.
+
+Ad esempio, se la versione originale è in inglese, la traduzione in italiano segue immediatamente; analogamente, se la versione originale è in italiano, la traduzione in inglese è collocata subito dopo.
+
+Per ottimizzare lo spazio e garantire la chiarezza nella lettura, si adottano le seguenti convenzioni di formattazione:
+
+Grassetto → indica l’intervistatore
+
+Corsivo → indica l’intervistato
+
+Attualmente, i dati sono disponibili esclusivamente in italiano e inglese; ciascun file include quindi entrambe le versioni linguistiche dello stesso contenuto.
+
+Si segnala inoltre che, nelle traduzioni, potrebbero essere presenti tracce di supporto derivanti dall’utilizzo di strumenti di intelligenza artificiale, impiegati per garantire coerenza e accuratezza linguistica.
+
+Per qualsiasi informazione o segnalazione, è possibile contattare il seguente indirizzo email: andrea.alfonsi97@gmail.com
+
+Dr. Andrea Alfonsi 
